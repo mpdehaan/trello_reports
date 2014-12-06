@@ -1,0 +1,17 @@
+{ 
+
+  # Trello API key
+  # (1) login into trello
+  # (2) visit https://trello.com/1/appKey/generate
+
+  "key"   : "abababababababababababababababab",
+
+  # Trello API token
+  # get a permanent read only token from 
+  # https://trello.com/1/authorize?key=substitutewithyourapplicationkey&name=My+Application&expiration=never&response_type=token
+
+  "token" : "cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd"
+
+  "organization_filter" : [ "yourorganization" ]
+  "board_filter" : [ "Show This Board", "And That Board" ]
+}
