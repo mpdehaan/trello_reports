@@ -4,6 +4,10 @@ Trello Reports
 The end goal of this project is to produce useful reports about project velocity
 using the Trello API.
 
+NOTE: It's not exactly finished, there may be better API clients and libraries available now.
+It may be useful as a starting point.
+
+
 Requirements
 ------------
 
